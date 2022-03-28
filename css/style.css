@@ -1,0 +1,21 @@
+section div{
+    background-color: #000;
+    border: 1px solid #FFF;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+    margin: 0 auto;
+    margin-top: 180px;
+    width: 750px;
+}
+
+#initialBTN{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.color{
+    color: rgb(12, 150, 160);
+    text-transform: uppercase;
+}
